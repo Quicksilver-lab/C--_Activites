@@ -32,14 +32,6 @@ This repository is a collection of activities, tools, and fun stuff from my scho
 1. **Clone the Repo**: 
    ```bash
    git clone https://github.com/Quicksilver-lab/C_Activities.git
-
-### Contributions
-
-Got something to share? We'd love to have you contribute!
-
-- **Submit a Pull Request**: If you’ve created an activity, tool, or project that can help others, feel free to submit a pull request.
-- **Report Issues**: Encountered a bug or issue? Open an issue on GitHub, and we’ll look into it.
-- **Suggest Improvements**: Have ideas on how to make this repo better? Share your suggestions through an issue or a discussion thread.
   
 <footer style="text-align: center; margin-top: 20px;">
     Created with ❤️ by QuickSilver
